@@ -1,0 +1,3 @@
+result = [('DSCE',),('BMS')]
+
+print(result)
